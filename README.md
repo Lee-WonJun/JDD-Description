@@ -169,6 +169,22 @@ CPU 성능은 내 실력과 달리 날로 발전한다.
 ```
 
 
+# Reference
+놀랍게도 꽤 많이 참고했다
+- [유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://www.hanbit.co.kr/store/books/look.php?p_code=E2375873090)
+- [애자일 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
+- [프로그래밍의 정석](http://www.yes24.com/Product/Goods/55254076)
+- [7가지 동시성 모델](http://www.yes24.com/Product/Goods/29331038)
+- [폴리글랏 프로그래밍](http://www.yes24.com/Product/Goods/12204890)
+- [클린 코드](http://www.yes24.com/Product/Goods/11681152)
+- [클린 아키텍쳐](http://www.yes24.com/Product/Goods/77283734)
+- [클로저 프로그래밍의 즐거움](http://www.yes24.com/Product/Goods/24555451)
+- [프로그래밍 스칼라](http://www.yes24.com/Product/Goods/27767797)
+- [FSharp Fun and Profit 블로그](https://fsharpforfunandprofit.com/)
+- [로버트 C 마틴 블로그](https://fsharpforfunandprofit.com/)
+- [마틴파울러 블로그](https://martinfowler.com/)
+- 그외 언젠가 한번쯤 읽어본 책들 다수
+
 # Contributing
 더 좋은 주둥아리 방법을 알고있다면 PR 을 날려주세요
 
