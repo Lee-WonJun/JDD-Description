@@ -54,7 +54,7 @@ JDD 의 기초가 되는 소양을 항상 명심하자.
 가끔 발생한다는 거에 비하여 사용은 너무 편하다. 누가 뭐라고 하면 그럴 일 없다고 하면 그만이다.
 
 - 어쩔 수 없이 멀티 쓰레드 업무가 들어오면 언어를 욕하면서 이 작업이 왜 어려운지 설명해라,
-아 이 언어는 Actor 모델이 빈약해서요, CSP(Communicating Sequential Processes) 구현체가 없어서요, STM(Synchronous Transfer Mode) 이 지원 안 돼서요.
+아 이 언어는 Actor 모델이 빈약해서요, CSP(Communicating Sequential Processes) 구현체가 없어서요, STM(Software Transactional Memory) 이 지원 안 돼서요.
 욕을 할수록 작업 기한이 늘어난다.
 
 - 비동기 흐름 내에서 동기함수를 몰래 써도 된다. 여기에 병목 찾는 작업 + 비동기로 개선 하는 작업하는 기한까지 나중에 받을 수 있다.
