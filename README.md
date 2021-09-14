@@ -202,7 +202,7 @@ CPU 성능은 내 실력과 달리 날로 발전한다.
 - [클로저 프로그래밍의 즐거움](http://www.yes24.com/Product/Goods/24555451)
 - [프로그래밍 스칼라](http://www.yes24.com/Product/Goods/27767797)
 - [FSharp Fun and Profit 블로그](https://fsharpforfunandprofit.com/)
-- [로버트 C 마틴 블로그](https://fsharpforfunandprofit.com/)
+- [로버트 C 마틴 블로그](https://blog.cleancoder.com/)
 - [마틴파울러 블로그](https://martinfowler.com/)
 - 그외 언젠가 한번쯤 읽어본 책들 다수
 
