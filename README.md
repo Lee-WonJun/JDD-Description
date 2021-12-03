@@ -162,6 +162,7 @@ DBMS 개발자를 믿자
 - [로버트 C 마틴 블로그](https://blog.cleancoder.com/)
 - [마틴 파울러 블로그](https://martinfowler.com/)
 - 그외 언젠가 한번쯤 읽어본 책들 다수
+- 그외 언젠가 한번쯤 읽어볼 책들 다수
 
 # Contributing
 더 좋은 주둥아리 방법을 알고 있다면 PR을 날려주세요
