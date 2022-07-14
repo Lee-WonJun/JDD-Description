@@ -316,6 +316,7 @@ IT 서비스 기획자는 서비스에 계획 및 로드맵 수립 + 협의를 �
 - [FSharp Fun and Profit 블로그](https://fsharpforfunandprofit.com/)
 - [로버트 C 마틴 블로그](https://blog.cleancoder.com/)
 - [마틴파울러 블로그](https://martinfowler.com/)
+- [wtfjs](https://github.com/denysdovhan/wtfjs) / [golang suck](http://www.golang.sucks/)
 - 그외 언젠가 한번쯤 읽어본 책들 다수
 - 그외 언젠가 한번쯤 읽어볼 책들 다수
 
