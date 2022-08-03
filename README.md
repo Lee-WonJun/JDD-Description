@@ -327,6 +327,7 @@ IT 서비스 기획자는 서비스에 계획 및 로드맵 수립 + 협의를 �
 - [마틴파울러 블로그](https://martinfowler.com/)
 - [wtfjs](https://github.com/denysdovhan/wtfjs) / [golang suck](http://www.golang.sucks/)
 - [코딩 호러의 이펙티브 프로그래밍](http://www.yes24.com/Product/Goods/8611802)
+- [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming)
 - 그외 언젠가 한번쯤 읽어본 책들 다수
 - 그외 언젠가 한번쯤 읽어볼 책들 다수
 - 나무위키
