@@ -160,7 +160,7 @@ JDD 의 기초가 되는 소양을 항상 명심하자.
 ```
 - 언어논쟁에서는 선빵필승의 문장이 있다 "언어는 도구다"
 
-- Type Srcipt, Coffee Script, Clojure Script 등 JS 의 슈퍼셋은 일절 사용하지 않는다. 누가 뭐라고 하면 JS는 애초에 그렇게 설계된 언어이고 그것이 곧 근본이라 하자.
+- TypeScript, CoffeeScript, ClojureScript 등 JS 의 슈퍼셋은 일절 사용하지 않는다. 누가 뭐라고 하면 JS는 애초에 그렇게 설계된 언어이고 그것이 곧 근본이라 하자.
 
 - 몇몇 언어는 굳이 내가 불평할 필요가 없다. wtfjs / golang.sucks 등 다른사람의 불평을 인용하자.
 ```
