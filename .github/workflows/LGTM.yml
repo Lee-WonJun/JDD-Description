@@ -1,0 +1,30 @@
+name: AUTO_LGTM
+
+on:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  looks_good_to_me_for_owner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: LGTM Comment
+        uses: wow-actions/auto-comment@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          pullRequestOpenedReactions: "hooray, +1"
+          pullRequestOpened: |
+            @{{ author }}
+            LGTM
+
+      - id: automerge
+        name: AutoMerge
+        uses: pascalgn/automerge-action@v0.15.5
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_LABELS: ""
+          MERGE_REMOVE_LABELS: "automerge"
+          MERGE_METHOD: "squash"
