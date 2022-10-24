@@ -7,6 +7,7 @@ on:
 
 jobs:
   looks_good_to_me_for_owner:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
