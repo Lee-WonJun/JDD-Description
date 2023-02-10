@@ -10,13 +10,9 @@ jobs:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
       - name: LGTM Comment
         uses: wow-actions/auto-comment@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           pullRequestOpenedReactions: "hooray, +1"
-          pullRequestOpened: |
-            @{{ author }}
-            LGTM
+          pullRequestOpenedComment: LGTM
