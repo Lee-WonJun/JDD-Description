@@ -309,6 +309,8 @@ DBMS 개발자를 믿자
 - inference 가 너무 오래 걸린다고 하면, 더 좋은 GPU 를 쓰면 된다고 하면서 NVIDIA V100 같은 것을 보여주자.
 
 - Productization 은 DevOps, MLOps 엔지니어의 역할이다. 모델 리서처는 신경 쓰지 말자.
+
+- Seed값 고정을 피해라. 이로써 성능이 생각보다 안 나와도 Randomness 탓을 하며 시간을 벌 수 있다.
 ```
 
 ### 기획
