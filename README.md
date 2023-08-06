@@ -1,6 +1,7 @@
 # JDD (Ju-Dung-A-Li Driven Development/주둥아리 주도 개발)
 
-![image](https://user-images.githubusercontent.com/10369528/130068355-049861db-ce6e-45cd-a74c-a262ee4fb01a.png)
+![JDD_Logo](https://github.com/keepinblazing/JDD-Description/assets/103014298/867daadc-d0ca-4e5e-bc32-faa13dfaf9cc)
+
 
 JDD 는 코드 작성보다 변명거리를 미리 생각하여 수많은 버그를 양성할 수 있는 개발 방법론이다.
 
