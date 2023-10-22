@@ -179,7 +179,7 @@ JDD 의 기초가 되는 소양을 항상 명심하자.
 
 - 내 코드 보다 길면 장황(verbose), 내 코드보다 짧으면 난해(esoteric)
 
-- 콜백 헬을 보고 뭐냐고 물어보면 CPS(Continuous Passing Style) 라고 답해줘라.
+- 콜백 헬을 보고 뭐냐고 물어보면 CPS(Continuation Passing Style) 라고 답해줘라.
 
 - 모든 if 문은 삼항 연산자로 써라, 누가 뭐라고 하면, "아 if 는 문이고 삼항은 식이니까요"
 
