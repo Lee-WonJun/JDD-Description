@@ -99,6 +99,8 @@ JDD 의 기초가 되는 소양을 항상 명심하자.
 단어부터 현기증이 온다.
 
 ```
+- Disagree and Never Commit
+
 - 여럿이서 동시에 같은 코드를 작성해야 한다면 어떻게든 나눠서 따로 작업한 뒤 합치자고 하자. 상대방도 하나를 두고 부대끼며 작업할 생각 따위 없다.
 
 - 브랜치 머지(Merge) 중 충돌 날 것 같은 시점에 휴가를 쓰는 건 필수다.
@@ -389,6 +391,7 @@ IT 서비스 기획자는 서비스에 계획 및 로드맵 수립 + 협의를 �
 - [wtfjs](https://github.com/denysdovhan/wtfjs) / [golang suck](http://www.golang.sucks/)
 - [코딩 호러의 이펙티브 프로그래밍](http://www.yes24.com/Product/Goods/8611802)
 - [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming)
+- [Amazon, 2016 Letter to Shareholders](https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders)
 - 그 외 언젠가 한 번쯤 읽어본 책들 다수
 - 그 외 언젠가 한 번쯤 읽어볼 책들 다수
 - 나무위키
