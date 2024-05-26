@@ -330,9 +330,9 @@ DBMS 개발자를 믿자
 
 - 모델이 너무 작다면 모델 최적화의 결과라고 하자. 최적화의 부작용으로 성능이 조금 떨어질 수 있다는 점도 곁들여주면 좋다.
 
-- training 이 너무 오래 걸린다고 하면, 더 좋은 GPU 를 쓰면 된다고 하면서 NVIDIA DGX A100 같은 것을 보여주자.
+- training 이 너무 오래 걸린다고 하면, 더 좋은 GPU 를 쓰면 된다고 하면서 NVIDIA DGX B200 같은 것을 보여주자.
 
-- inference 가 너무 오래 걸린다고 하면, 더 좋은 GPU 를 쓰면 된다고 하면서 NVIDIA V100 같은 것을 보여주자.
+- inference 가 너무 오래 걸린다고 하면, 더 좋은 GPU 를 쓰면 된다고 하면서 NVIDIA H100 같은 것을 보여주자.
 
 - Productization 은 DevOps, MLOps 엔지니어의 역할이다. 모델 리서처는 신경 쓰지 말자.
 
