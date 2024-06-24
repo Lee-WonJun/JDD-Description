@@ -102,6 +102,8 @@ JDD 의 기초가 되는 소양을 항상 명심하자.
 단어부터 현기증이 온다.
 
 ```
+- main branch 만 쓴다, 누가 뭐라고 하면 trunked base development 중 이라고 해라.
+
 - Disagree and Never Commit
 
 - 여럿이서 동시에 같은 코드를 작성해야 한다면 어떻게든 나눠서 따로 작업한 뒤 합치자고 하자. 상대방도 하나를 두고 부대끼며 작업할 생각 따위 없다.
