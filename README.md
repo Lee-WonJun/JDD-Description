@@ -253,15 +253,16 @@ Object 타입을 리턴하는 함수에서 null 을 리턴하도록 하는 게 �
 CPU 성능은 내 실력과 달리 날로 발전한다.
 
 ```
+
+- 성능이 느리다고 한다면 요샌 GPU 가 대세라 CPU 로는 한계가 있다고 해라
+
 - DTO/VO 변환은 쓰지 않는다. 누가 뭐라고 하면 성능 최적화라고 해라
 
-- DTO/VO 는 물론 어떤 Model 도 만들지 않는다. 모두 Map (Dictionary) 자료구조를 사용하자. 누가 뭐라고 하면 Data Oriented Programming 라고 해라.
-물론 Validation 같은 건 안 한다.
+- DTO/VO 는 물론 어떤 Model 도 만들지 않는다. 모두 Map (Dictionary) 자료구조를 사용하자. 누가 뭐라고 하면 Data Oriented Programming 라고 해라. 물론 Validation 같은 건 안 한다.
 
 - DB 는 그때그때 필요한 필드를 추가해라. 정규화나 규칙은 생각조차 하지 말아라. 누가 뭐라고 하면 이 또한 성능 최적화
 
-- 패턴이나 아키텍처는 쓰지 않는다. 클래스로도 나누지 마라. N 중 포문과 if 문으로 절차적으로 작성해라,
-누가 뭐라고 하면 이건 진짜 성능 최적화라고 해라
+- 패턴이나 아키텍처는 쓰지 않는다. 클래스로도 나누지 마라. N 중 포문과 if 문으로 절차적으로 작성해라. 누가 뭐라고 하면 이건 진짜 성능 최적화라고 해라
 
 - 성능 최적화는 그 어떠한 상황에서도 금물, 누가 뭐라고 하면 요즘은 "컴파일러" 한테 맡기는 게 대세라고 해라
 
@@ -417,7 +418,6 @@ IT 서비스 기획자는 서비스에 계획 및 로드맵 수립 + 협의를 �
 - [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming)
 - [Amazon, 2016 Letter to Shareholders](https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders)
 - 그 외 언젠가 한 번쯤 읽어본 책들 다수
-- 그 외 언젠가 한 번쯤 읽어볼 책들 다수
 - 나무위키
 
 # Contributing
