@@ -418,6 +418,7 @@ IT 서비스 기획자는 서비스에 계획 및 로드맵 수립 + 협의를 �
 - [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming)
 - [Amazon, 2016 Letter to Shareholders](https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders)
 - 그 외 언젠가 한 번쯤 읽어본 책들 다수
+- 그 외 언젠가 한 번쯤 읽어볼 책들 다수
 - 나무위키
 
 # Contributing
