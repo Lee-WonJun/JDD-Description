@@ -207,6 +207,8 @@ JDD 의 기초가 되는 소양을 항상 명심하자.
 - 두 개 이상 실행되는 서비스가 있으면 MSA(Micro-Service Architecture) 다.
 테스트를 돌려주는 스크립트만 따로 있어도 MSA 다.
 거기에 언어가 다르면 폴리글랏(polyglot)까지 했다고 말할 수 있다.
+
+- 복사하고 붙여 넣어라 누가 뭐라고 하면 CPP(Copy and Paste Programming) 방법론이라고 하자.
 ```
 
 ### 언어
