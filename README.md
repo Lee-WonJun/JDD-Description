@@ -411,6 +411,8 @@ DBMS 개발자를 믿자.
 - Productization 은 DevOps, MLOps 엔지니어의 역할이다. 모델 리서처는 신경 쓰지 말자.
 
 - Seed값 고정을 피해라. 이로써 성능이 생각보다 안 나와도 Randomness 탓을 하며 시간을 벌 수 있다.
+
+- 문제가 무엇이든 Transformer 아키텍처를 쓰라. 이유를 묻는다면 그게 SOTA 모델이라고 답하라.
 ```
 
 ### DevOps
