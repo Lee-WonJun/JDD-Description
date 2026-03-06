@@ -104,7 +104,7 @@ JDD 의 기초가 되는 소양을 항상 명심하자.
 단어부터 현기증이 온다.
 
 ```
-- main branch 만 쓴다, 누가 뭐라고 하면 trunked base development 중 이라고 해라.
+- main branch 만 쓴다, 누가 뭐라고 하면 trunk-based development 중 이라고 해라.
 
 - Disagree and Never Commit.
 
