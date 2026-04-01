@@ -1,0 +1,11 @@
+interface:
+  display_name: "JDD Buzzword"
+  short_description: "Turn engineering shortcuts into confident buzzword-heavy explanations."
+  triggers:
+    - "JDD 스타일로"
+    - "주둥아리로"
+    - "있어보이게"
+    - "buzzword"
+    - "어떻게 변명하지"
+    - "뇌절 모드"
+  default_prompt: "Use $jdd-buzzword to reframe this code, bug, or design choice in confident JDD language."

@@ -1,0 +1,21 @@
+interface:
+  display_name: "JDD Buzzword"
+  short_description: "Spin rough code into JDD buzzwords."
+  triggers:
+    - "JDD 스타일로"
+    - "주둥아리로"
+    - "있어보이게"
+    - "이거 어떻게 포장하지"
+    - "어떻게 변명하지"
+    - "뇌절 모드"
+    - "buzzword"
+  default_prompt: "Use $jdd-buzzword to reframe this code, bug, or design choice in confident JDD language."
+  examples:
+    - user: "콜백 지옥인데 어떻게 포장하지"
+      response_hint: "CPS(Continuation Passing Style) control-flow design"
+    - user: "No tests at all"
+      response_hint: "REPL-verified behavior"
+    - user: "validation set 안 만들고 전부 학습에 넣었는데"
+      response_hint: "maximum data utilization strategy"
+    - user: "기획이 3번 바뀌었는데 개발자 탓이래"
+      response_hint: "agile requirement evolution"
